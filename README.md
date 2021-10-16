@@ -1,3 +1,3 @@
 # project
 project-creative coding
-![image](https://github.com/QuSiChen/IMAGE/blob/main/Mondrian.png)
+![image](https://github.com/QuSiChen/IMAGE/blob/main/S.png)
